@@ -1,2 +1,2 @@
-My first readme
-Working on my git assignment
+My first readme.
+I'm working on my git assignment.
